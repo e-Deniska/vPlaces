@@ -1,0 +1,86 @@
+{
+  "version" : "1.0",
+  "places" :
+  [
+    {
+      "identifier" : "vplaces.previously-bundled.campfire",
+      "revision" : "1",
+      "texts" :
+      [
+        {
+          "lang" : "en",
+          "title" : "Campfire",
+          "details" : "Sit near campfire in the night."
+        },
+        {
+          "lang" : "ru",
+          "title" : "Костер",
+          "details" : "Посидите у костра."
+        },
+        
+      ],
+      "archiveURL" : "http://e-deniska.github.io/vPlaces/campfire.vplace"
+    },
+
+    {
+      "identifier" : "vplaces.previously-bundled.city",
+      "revision" : "1",
+      "texts" :
+      [
+        {
+          "lang" : "en",
+          "title" : "City",
+          "details" : "Find yourself in the center of a big city."
+        },
+        {
+          "lang" : "ru",
+          "title" : "Мегаполис",
+          "details" : "Окажитесь в центре большого города."
+        },
+        
+      ],
+      "archiveURL" : "http://e-deniska.github.io/vPlaces/city.vplace"
+    },
+
+    {
+      "identifier" : "vplaces.previously-bundled.forest",
+      "revision" : "1",
+      "texts" :
+      [
+        {
+          "lang" : "en",
+          "title" : "Spring forest",
+          "details" : "Take a walk in the woods on a sunny day."
+        },
+        {
+          "lang" : "ru",
+          "title" : "Весенний лес",
+          "details" : "Прогуляйтесь по весеннему лесу ярким солнечным днем."
+        },
+        
+      ],
+      "archiveURL" : "http://e-deniska.github.io/vPlaces/forest.vplace"
+    },
+
+    {
+      "identifier" : "vplaces.previously-bundled.thunderstorm",
+      "revision" : "1",
+      "texts" :
+      [
+        {
+          "lang" : "en",
+          "title" : "Thunderstorm",
+          "details" : "Sit at home during the summer thunderstorm."
+        },
+        {
+          "lang" : "ru",
+          "title" : "Гроза",
+          "details" : "Переждите дома летнюю грозу."
+        },
+        
+      ],
+      "archiveURL" : "http://e-deniska.github.io/vPlaces/thunderstorm.vplace"
+    },
+
+  ]
+}
